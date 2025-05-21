@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with Tone.js for audio synthesis
 - Uses Three.js for 3D visualization
-- Implements advanced audio routing and processing techniques 
+- Implements advanced audio routing and processing techniques
