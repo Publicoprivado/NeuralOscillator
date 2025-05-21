@@ -22,7 +22,7 @@ An interactive neural sound synthesis environment where artificial neurons gener
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/NeuralOscillator.git
+git clone https://github.com/publicoprivado/NeuralOscillator.git
 cd NeuralOscillator
 ```
 

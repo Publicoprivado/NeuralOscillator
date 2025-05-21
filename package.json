@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "description": "An interactive neural sound synthesis environment",
-  "homepage": "https://YourUsername.github.io/NeuralOscillator",
+  "homepage": "https://publicoprivado.github.io/NeuralOscillator",
   "dependencies": {
     "@three.ez/main": "^0.5.7",
     "dat.gui": "^0.7.9",
