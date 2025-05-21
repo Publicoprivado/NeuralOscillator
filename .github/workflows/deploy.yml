@@ -35,7 +35,9 @@ jobs:
           npm install -g vite
 
       - name: Build
-        run: npm run build
+        run: |
+          npm run build
+          touch dist/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
