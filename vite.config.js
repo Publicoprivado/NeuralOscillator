@@ -43,9 +43,7 @@ export default defineConfig({
             }
         },
         rollupOptions: {
-            input: {
-                main: './index.html'  // Add this line to specify entry point
-            },
+            input: './index.html',
             output: {
                 manualChunks: {
                     'tone': ['tone'],
@@ -73,7 +71,8 @@ export default defineConfig({
     css: {
         devSourcemap: true,
         modules: {
-            scopeBehavior: 'local'
+            scopeBehavior: 'local',
+            localsConvention: 'camelCase'
         }
     }
 });

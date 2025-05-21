@@ -368,7 +368,7 @@ export class OptimizedSoundManager {
         
         console.log(`Neuron ${neuronId} spatial position: pan = ${normalizedPan.toFixed(2)}`);
         return normalizedPan;
-    }
+    }npm
     
     // Enable or disable spatial audio
     setSpatialAudio(enabled) {
